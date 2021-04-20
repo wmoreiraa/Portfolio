@@ -5,6 +5,7 @@ Mostly presented in the form of iPython Notebooks, but that are full data scienc
 
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+
 _Note: All of my projects are NOT WORK RELATED since I work mostly with NDA._
 
 ## Contents
@@ -13,7 +14,7 @@ _Note: All of my projects are NOT WORK RELATED since I work mostly with NDA._
 
     - [Predicting Boston Housing Prices](broken): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
     
-_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ 
 
 
 - ### Data Analysis and Visualisation
@@ -22,5 +23,5 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
     
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at:
-e-mail: walber3@gmail.com. 
-[linkedin](https://www.linkedin.com/in/walbermoreira/)
+- e-mail: walber3@gmail.com. 
+- [linkedin](https://www.linkedin.com/in/walbermoreira/)
