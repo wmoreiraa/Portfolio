@@ -1,6 +1,7 @@
 # Data Science Portfolio
+
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. 
-Mostly presented in the form of iPython Notebooks, but that are full data science projects that are using the CookieCutter DS template.
+Mostly presented in the form of iPython Notebooks, but for full data science projects I would use the CookieCutter DS template.
 
 
 
@@ -10,16 +11,13 @@ _Note: All of my projects are NOT WORK RELATED since I work mostly with NDA._
 
 ## Contents
 
-- ### Machine Learning
+- ### Projects 
 
-    - [Predicting Boston Housing Prices](broken): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-    
+    - [Credit Card Customer Segmentation](https://github.com/wmoreiraa/Portfolio/blob/master/cc_customersegment.ipynb): The marketing team is trying to build a new sales strategy 
+focused on deliverying the different campaings across customer segmentation. The data consists of 9000 rows of credit card holders behavioural features. To solve the problem Ive reduced the dimensionality using PCA and selected the optimal number of clusters using KMeans algorithm and the silhouette plot.
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ 
 
 
-- ### Data Analysis and Visualisation
-	- __Python__
-    
     
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at:
